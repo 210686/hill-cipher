@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Decrypt
+comment1.params=up\ one\ two\ three\ four
+comment1.target=Decrypt(int,\ int,\ int,\ int,\ int)
+numComments=2
